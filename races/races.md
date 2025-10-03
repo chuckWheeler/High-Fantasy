@@ -5,7 +5,7 @@
 - Colosi
 - Gnomes
 
-## Mixed races
+## Mixed races (not fertile*)
 - Dwarves - Colosus/Gnome
 - Nymf - Elf/Gnome
-- J
+- Jinn - 
